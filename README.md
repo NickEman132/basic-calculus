@@ -1,11 +1,11 @@
-### **Basic Calculus Fourth Quarter Printable Reviewer & Cheat Sheet**  
+### **Fourth Quarter Printable Reviewer & Cheat Sheet**  
 This document serves as both a **reviewer** and a **cheat sheet** for fundamental concepts in Basic Calculus.    
 
 ---
 
-## **PART 3: DERIVATIVES**  
+## **DERIVATIVES**  
 
-### **9. Definition of a Derivative**  
+### **Definition of a Derivative**  
 The derivative of $\( f(x) \)$ at $\( x = a \)$ is:  
 $\[
 f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}
@@ -14,7 +14,7 @@ f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}
 
 ---
 
-### **10. Differentiation Rules**  
+### **Differentiation Rules**  
 - **Power Rule**: $\( \frac{d}{dx} x^n = n x^{n-1} \)$.  
 - **Sum/Difference Rule**: $\( (f \pm g)' = f' \pm g' \)$.  
 - **Product Rule**: $\( (fg)' = f'g + fg' \)$.  
@@ -82,8 +82,13 @@ $y' = 4(6x^2 + 7x)^3(12x + 7) = (6x^2 + 7x)^3(48x + 28)$
 
 $y = \sqrt[3]{1 - 8x} = (1 - 8x)^\frac{1}{3}$
 
-$y' = \frac{1}{3}(1 - 8x)^\frac{-2}{3}(-8) = -\frac{8}{3}(1 - 8x)^\frac{-2}{3} = -\frac{8}{3(1-8x)^\frac{2}{3}
+$y' = \frac{1}{3}(1 - 8x)^\frac{-2}{3}(-8) = -\frac{8}{3}(1 - 8x)^\frac{-2}{3} = -\frac{8}{3(1-8x)^\frac{2}{3}$
 
+8.
+
+$y = \frac{1}{(x^4 + 1)^3} = (x^4 + 1)^{-3}$
+
+$y' = -3(x^4 + 1)^{-4}(4x^3) = (x^4 + 1)^{-4}(-12x^3)$
 
 ---
 
