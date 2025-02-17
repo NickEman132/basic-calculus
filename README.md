@@ -105,6 +105,18 @@ Used when $\( y \)$ is defined implicitly:
 
 ---
 
+## **INTEGRALS**
+
+$1. \int 3dx$
+
+$2. \int x^{-6}dx$
+
+$3. \int \frac{1}{x^{-7}}dx$
+
+$4. \int 5\sqrt{x}dx$
+
+$5. \int (12x^2 + 2x)dx$
+
 ## **CHEAT SHEET**  
 
 | Concept | Formula/Key Idea |
